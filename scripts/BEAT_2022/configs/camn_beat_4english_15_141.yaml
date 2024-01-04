@@ -45,3 +45,4 @@ div_reg_weight: 0.0
 grad_norm: 200
 epochs: 100
 test_period: 99
+root_path: /content

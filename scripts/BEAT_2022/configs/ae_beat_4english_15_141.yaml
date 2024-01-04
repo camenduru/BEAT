@@ -34,3 +34,4 @@ kld_weight: 0
 lr_base: 0.00012 
 grad_norm: 0
 epochs: 140
+root_path: /content

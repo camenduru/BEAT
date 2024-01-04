@@ -43,3 +43,4 @@ kld_weight: 0.1
 div_reg_weight: 0.01
 epochs: 100
 test_period: 99
+root_path: /content
